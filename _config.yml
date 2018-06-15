@@ -47,7 +47,6 @@ github:
  - Nikol1ca/webshop2018
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
-additionalinfo: |
-   <strong>Course</strong>: I am currently finishing .NET Course from NiCAT Cluster (Pre - Qualification Course organized by the Goverment of Republic of Serbia) 2017 - 2018.<br/><br/>
-   <strong>Hobbies</strong>: I love cooking, reading and runing.<br/><br/>
+additionalinfo: |   
+   <strong>Hobbies</strong>: I love cooking, reading, runing and gaming.<br/><br/>
    <strong>Language</strong>: I have a solid knowledge of english. I know decently french and german.
