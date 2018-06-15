@@ -39,6 +39,12 @@ education:
    date: 2016
    subject: Roulette - game of luck made in Microsoft Visual Studio IDE in C# programming language  
    school: High School "Bora Stanković"
+   
+ - level: .NET Course
+   date: Ongoing
+   subject: NiCAT Cluster (Pre - Qualification Course organized by the Goverment of Republic of Serbia)
+   2017 - 2018  
+   school: Faculty of Electronics
 
 #List of interesting Github repo/projects to include - optional
 github:
