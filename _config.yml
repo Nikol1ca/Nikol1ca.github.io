@@ -14,13 +14,11 @@ primarylinks:
 
 #Any buzzword skills you want to include
 skills:
- - Gamer
  - C#
  - ASP.NET MVC
  - SQL
  - CSS/HTML
  - C/C++
- - Cook
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
 #blogfeed: CV
@@ -31,7 +29,7 @@ roles:
    start: 2018
    end: Ongoing
    employer: MesaVis Electronics
-   description: MesaVis Electronics was established as a company that has unique software and hardware for Thermal Furnaces. Thermal Furnaces are used to enhance certain metal parts adding a various number of different elements just as Calcium, Phosphate and others. I am an internship in this company and my role is to help a team of Software Engineers in documenting theyr software aswel as manage the database.
+   description: MesaVis Electronics was established as a company that has unique software and hardware for Thermal Furnaces. Thermal Furnaces are used to enhance certain metal parts adding a various number of different elements just as Calcium, Phosphate and others. I am an internship in this company and my role is to help a team of Software Engineers in documenting theyr software as well as manage the database.
 
 #Education is required
 education:
@@ -41,8 +39,7 @@ education:
    school: High School "Bora Stanković"  
  - level: .NET Course
    date: Ongoing
-   subject: NiCAT Cluster (Pre - Qualification Course organized by the Goverment of Republic of Serbia)
-   2017 - 2018  
+   subject: NiCAT Cluster (Pre - Qualification Course organized by the Goverment of Republic of Serbia 2017 - 2018  
    school: Faculty of Electronics
 
 #List of interesting Github repo/projects to include - optional
@@ -51,9 +48,6 @@ github:
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
-   <strong>JVM</strong>: I am experienced in a variety of Java API’s and frameworks. I have recently worked with Spring 4, Spring Boot, JPA (Hibernate and EclipseLink) in addition to others.  In my current role Groovy is the primary language used - and I am familiar with many of the languages features and quirks (including writing <a target='_blank' href="https://dzone.com/articles/functional-programming-groovy">Functional Programming style groovy</a>). <br/><br/>
-   <strong>Web Development</strong>: My server side web development experience has largely been based on the Spring MVC framework (although current role uses ColdFusion for server side web stack). I have also worked with some client side technology, having used jQuery, Bootstrap, LESS, SASS and have also experimented with other interesting technologies such as Backbone/Underscore/Require.<br/><br/>
-   <strong>Development Control</strong>: I have a good knowledge of application life-cycle management and have worked with SVN, Git, Maven, Gradle, Sonar and Jenkins. I have experience with an array of testing tools and technologies.<br/><br/>
-   I have also gained experience and knowledge of other technologies from several side projects and research that I have undertaken in my free time, including Android, a variety of social APIs (Twitter etc) and cloud platforms such as CloudFoundry/OpenShift/AppFog/Parse. <br/><br/>
-   As part of Nerdability, I created, and am now primary contributor to, two Spring projects - <a target='_blank' href="https://github.com/robhinds/spring-social-geeklist">Spring-Social-Geeklist</a> and <a target='_blank' href="https://github.com/nerdability/spring-social-khan-academy">Spring-Social-Khan-Academy</a>, which provide core integration with those third-party APIs on top of the Spring Social framework. They are both listed as community projects: <a target='_blank' href="http://projects.spring.io/spring-social/">http://projects.spring.io/spring-social/</a>. <br/><br/>
-   I write a blog covering technical and opinion articles that can be found here: <a target='_blank' href="http://automateddeveloper.blogspot.com/">automateddeveloper.blogspot.com</a> (I am also a <a target='_blank' href="https://dzone.com/users/899489/rhinds.html">DZone MVB</a>)
+   <strong>Course</strong>: I am currently finishing .NET Course from NiCAT Cluster (Pre - Qualification Course organized by the Goverment of Republic of Serbia) 2017 - 2018.<br/><br/>
+   <strong>Hobbies</strong>: I love cooking, reading and runing.<br/><br/>
+   <strong>Language</strong>: I have a solid knowledge of english. I know decently french and german.
